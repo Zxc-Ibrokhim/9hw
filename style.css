@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.website_header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 165px;
+    margin-top: 40px;
+    height: 48px;
+}
+
+.header_right {
+    display: flex;
+    gap: 41px;
+    align-items: center;
+}
+
+.ul_header {
+    display: flex;
+    gap: 40px;
+}
+
+.li_header {
+    text-decoration: none;
+    list-style: none;
+}
+
+.button_header {
+    width: 173px;
+    height: 48px;
+    background-color: #BA4270;
+    border: none;
+    border-radius: 30px;
+    color: white;
+}
+
+.a_header {
+    text-decoration: none;
+    list-style: none;
+    color: #36536B;
+}
+
+
+.website_main1_left {
+    width: 546px;
+    height: 345px;
+}
+
+.hamasi {
+    display: flex;
+    gap: 218px;
+    justify-content: center;
+    align-items: center;
+}
+
+.website_main1_right {
+    width: 293px;
+    height: 500px;
+}
+
+.iphone_x {
+    width: 263px;
+    height: 500px;
+}
+
+.container_main_sec2 {
+    height: 472px;
+    background-color: #1B262F;
+}
+
+.Who_main_sec2 {
+    color: white;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: -0.3692307770252228px;
+    text-align: left;
+
+}
+
+.Today_main_sec2 {
+    color: #a5a5a5;
+    width: 445px;
+    height: 112px;
+    font-family: "Public Sans";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    font-family: "Public Sans";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+}
+
+.About_us_main_sec2 {
+    width: 129px;
+    height: 48px;
+    top: 1061px;
+    left: 165px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 25px;
+    background-color: transparent;
+    border: solid 2px white;
+    color: white;
+}
+
+.container_main_sec2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 131px;
+}
+.box_1{
+    display: flex;
+    flex-direction: column;
+        gap: 32px;
+}
